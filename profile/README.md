@@ -2,24 +2,6 @@
 
 # Aplicación de GitHub para la Enseñanza de la Programación
 
-# Índice
+Curso de entrenamiento básico para la enseñanza de la Programación usando GitHub.
 
-## Generalidades
-
-## 1-Introducción
-
-## 2-Tipos de Repositorios en GitHub
-
-## 3-Casos de Uso de Repositorios de GitHub
-
-## 4-Evaluación Automática : Autograding
-
-## 5-Temas Avanzados
-
-## Repositorios de Apoyo
-
-## Guías de Apoyo
-
-## Sitios de Apoyo
-
-## Videos de Apoyo
+*Usted está en la vista pública de la organización. Tiene acceso limitado a los recursos disponibles en esta organización. Solicite la invitación a la misma a ricardo-qm@culiacan.tecnm.mx*
