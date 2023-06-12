@@ -4,4 +4,4 @@
 
 Curso de entrenamiento básico para la enseñanza de la Programación usando GitHub.
 
-*Usted está en la vista pública de la organización. Tiene acceso limitado a los recursos disponibles en esta organización. Solicite la invitación a la misma a ricardo-qm@culiacan.tecnm.mx*
+*Usted está en la vista pública de la organización. Tiene acceso limitado a los recursos disponibles en esta organización. Solicite la invitación a la misma a ricardo-qm@culiacan.tecnm.mx para tener un acceso completo*
